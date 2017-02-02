@@ -1,6 +1,6 @@
-## Welcome from here
+## **Welcome from here
 
-### Test page
+### *Test page
 
 ```markdown
 This is cool code block.
@@ -23,4 +23,4 @@ You can Find me here [VK](https://vk.com/kabykenov_dias).
 
 My [Facebook](https://www.facebook.com/kabykenov.dias) page.
 
-P.S. Murod Черный
+P.S. Murod is not a nigger, he is an afroamerican!
