@@ -17,7 +17,8 @@ This is cool code block.
 
 [Link](url) and ![Image](src)
 ```
-### Support or Contact
+# Support or Contact
 
-You can Find me here [VK](https://vk.com/kabykenov_dias)
+You can Find me here [VK](https://vk.com/kabykenov_dias).
+
 My [Facebook](https://www.facebook.com/kabykenov.dias) page.
