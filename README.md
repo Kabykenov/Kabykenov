@@ -22,3 +22,5 @@ This is cool code block.
 You can Find me here [VK](https://vk.com/kabykenov_dias).
 
 My [Facebook](https://www.facebook.com/kabykenov.dias) page.
+
+P.S. Jahan is not good boy, Myrza kotakbas
