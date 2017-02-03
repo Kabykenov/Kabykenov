@@ -1,6 +1,6 @@
 ## **Welcome**
 
-https://cloud.githubusercontent.com/assets/25484579/22585353/9355eaba-ea21-11e6-8a75-ccf0993855a9.jpg
+[Image alt](https://cloud.githubusercontent.com/assets/25484579/22585353/9355eaba-ea21-11e6-8a75-ccf0993855a9.jpg)
 
 ### *Test page*
 
