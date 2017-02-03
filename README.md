@@ -14,12 +14,10 @@ This is cool code block.
 
 1. Numbered
 2. List
-
-[Link](url) and !
 ```
 ### Support or Contact
 
-[LOL](https://vk.com/photo185185758_456239101)
+[Слава Вальхалле](https://vk.com/photo185185758_456239101)
 
 You can Find me here [VK](https://vk.com/kabykenov_dias).
 
