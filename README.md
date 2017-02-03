@@ -18,7 +18,11 @@ This is cool code block.
 ### Support or Contact
 
 [Слава Вальхалле](https://vk.com/photo185185758_456239101)
+
 [Всем кто считает, что мой сайт говно](http://vsekidki.ru/uploads/posts/2016-02/1454889093_009486127f6829429f61d8c93d182188.jpg)
+
+[Всем кто считает, что мой сайт не очень](https://avatanplus.com/files/resources/mid/579a247650cab156321e6e3b.png)
+
 
 You can Find me here [VK](https://vk.com/kabykenov_dias).
 
