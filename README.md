@@ -23,6 +23,8 @@ This is cool code block.
 
 [Всем кто считает, что мой сайт не очень](https://avatanplus.com/files/resources/mid/579a247650cab156321e6e3b.png)
 
+[Для Горбунова СерГея](http://cs6.pikabu.ru/images/big_size_comm/2014-11_4/14161454957379.jpeg)
+
 
 You can Find me here [VK](https://vk.com/kabykenov_dias).
 
