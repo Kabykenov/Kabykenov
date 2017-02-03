@@ -1,7 +1,5 @@
 ## **Welcome**
 
-<img(http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-welcome-to-hell-5.png)> 
-
 ### *Test page*
 
 ```markdown
