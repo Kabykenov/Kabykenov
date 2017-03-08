@@ -1,34 +1,58 @@
-## **Welcome**
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Brand</a>
+    </div>
 
-<img src="https://cloud.githubusercontent.com/assets/25484579/22585353/9355eaba-ea21-11e6-8a75-ccf0993855a9.jpg" style="width:496px;height:667px;">
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 
-<img src="http://mirgif.com/jivotnie/dikie-zhivotnie-22.gif" />
-
-### *Test page*
-
-```markdown
-This is cool code block.
-
-# ***code 1***
-## **code 2**
-### *code 3*
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-```
 ### Support or Contact
-
-[Слава Вальхалле](https://vk.com/photo185185758_456239101)
-
-[Всем кто считает, что мой сайт говно](http://vsekidki.ru/uploads/posts/2016-02/1454889093_009486127f6829429f61d8c93d182188.jpg)
-
-[Всем кто считает, что мой сайт не очень](https://avatanplus.com/files/resources/mid/579a247650cab156321e6e3b.png)
-
-[Для Горбунова СерГея](http://cs6.pikabu.ru/images/big_size_comm/2014-11_4/14161454957379.jpeg)
-
 
 You can Find me here [VK](https://vk.com/kabykenov_dias).
 
