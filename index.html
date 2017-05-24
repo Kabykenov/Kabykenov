@@ -62,34 +62,42 @@
   </div><!-- /.container-fluid -->
 </nav>
   
-  <div class="slideshow-container">
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="https://signup.na.leagueoflegends.com/theme/signup_new_theme/img/logo-lol-smaller.png" style="width:100%">
-    <div class="text">Caption Text</div>
+  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+ 
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="http://placehold.it/1200x315" alt="...">
+      <div class="carousel-caption">
+      	<h3>Caption Text</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x315" alt="...">
+      <div class="carousel-caption">
+      	<h3>Caption Text</h3>
+      </div>
+    </div>
+    <div class="item">
+      <img src="http://placehold.it/1200x315" alt="...">
+      <div class="carousel-caption">
+      	<h3>Caption Text</h3>
+      </div>
+    </div>
   </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="https://lolstatic-a.akamaihd.net/frontpage/apps/prod/new-player-landing/en_US/3bcd72b62270f1c0042778effaaca6b76537771e/assets/img/social/lol-1024x1024.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="http://www.desicomments.com/wp-content/uploads/LOL-With-Emoji.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
-  </div>
-
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-
+ 
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
 </body>
